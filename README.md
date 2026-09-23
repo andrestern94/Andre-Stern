@@ -21,3 +21,17 @@ vajalikuks seada nende kasutamisele rangemaid piiranguid.
 
 ## Litsents
 
+## Dockeri harjutus 23.09.2026
+
+Image'i loomine (kaustas, kus asub Dockerfile):
+    docker build -t myapp .
+
+Konteineri käivitamine:
+    docker run myapp
+
+Vastuseks tuli:
+    "Tere Dockerist!"
+
+Samuti esines probleeme Dockeriga - nimelt ei käivitunud Docker (Virtualization support not detected - Docker Desktop failed to start because virtualisation support wasn’t detected. Contact your IT admin to enable virtualization or check system requirements.)
+
+Harjutuse tegin Github Codespace keskkonnas.
