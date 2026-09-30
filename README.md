@@ -35,3 +35,11 @@ Vastuseks tuli:
 Samuti esines probleeme Dockeriga - nimelt ei käivitunud Docker (Virtualization support not detected - Docker Desktop failed to start because virtualisation support wasn’t detected. Contact your IT admin to enable virtualization or check system requirements.)
 
 Harjutuse tegin Github Codespace keskkonnas.
+
+
+## Kodune ülesanne 30.09.2026
+
+Pandase ja Seaborni töövihikud leiab kaustast "harjutused/" . 
+Tulemused on kaustas "harjutused/esitus/.
+
+Ülesanded olid minu jaoks rasked, sest alustasin sügisest Pythoni kasutamist null-tasemelt. Kasutasin töö tegemisel AI (Claude'i) abi, et saada selgitust ja mõistete lahtiseletamist ning veaotsingute juures.
